@@ -1,0 +1,21 @@
+# Data files (too large for GitHub)
+data/*.csv
+data/*.xlsx
+data/*.parquet
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# HuggingFace cache
+~/.cache/huggingface/
